@@ -1,0 +1,27 @@
+maarten surgesties
+	meta data extraction
+	
+	workflow in een python notebook voor de ambtenaren
+		dataframe met kilkbare hyperreffs
+		doorzoekbare pdf's
+		ook met meta data
+
+	zoekmachine
+		OCR pdf + uitlees pdf indexeren
+		diff doen met alleen "echte nieuwe woorden" toevoegen
+
+	cooccurance netwerk
+		kijken waar twee bois met elkaar in een docu voorkomen
+		maak er een tool van
+		laat mensen dan ook klikken op cooccurances en laat meer informatie zien daarvoer
+		bijvoorbeeld andere cooccurances van de twee
+		andere bois in het bestand
+		sws link naar bestand		
+
+		verbanden aan het licht brengen
+		
+	wetsartiekelen
+		spacy ner model
+		hyperlinken naar online wetboek
+		hearst patterns
+		
