@@ -1,2 +1,4 @@
 wetten kunnen dmv pattern matching van spacy gevonden worden
 de al getrainde nederlandse NER lijkt redelijk goed te werken maar dat moet nog wat meer getest worden
+	custom pipeline gebruiken om deze dingen gelijk te doen met de nlp call
+
