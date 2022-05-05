@@ -1,0 +1,1 @@
+{"correct": 424, "incorrect": 9, "missing": 54, "spurious": 13, "america": 30, "ocr": 19, "oneoff": 12, "other": 15, "documents": 265, "precision": 0.9506726457399103, "recall": 0.8706365503080082, "f1": 0.9088960342979635}
