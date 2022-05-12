@@ -1,0 +1,1 @@
+{"correct": 178, "incorrect": 0, "partial": 16, "missing": 106, "spurious": 14, "abbr": 18, "ocr": 0, "whitespace": 5, "minister": 6, "other": 91, "precision": 0.96875, "recall": 0.6549295774647887, "f1": 0.7815126050420168}
